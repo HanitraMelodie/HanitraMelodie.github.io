@@ -1,0 +1,63 @@
+@media screen and (max-width: 992px) {
+  body {
+    background-color: blue;
+  }
+}
+    header{
+      text-align:center;
+      color:white;
+      font-weight:bolder;
+background-color:blueviolet;
+      top:0;
+      position:fixed;
+      height:90px;
+  width:2000px;
+    }
+
+    h1{
+      text-align:center;
+      font-weight: bolder;
+      font-family: 'Gideon Roman', cursive;
+      text-decoration: underline;
+      font-size:50px;
+    }
+
+#header-img{
+  width:90px;
+  position:flex;
+  right:0;
+  
+}
+#form{
+  text-align:center;
+}
+h2{
+  text-align:center;
+  font-size:40px;
+}
+   ul li{
+        display:inline;
+    text-align: center;
+     
+   }
+
+    ul {
+      list-style: none;
+      font-size:30px;
+       font-family: 'Redressed', cursive;
+      margin-top:0;
+      display: flex;
+  justify-content:space-evenly;
+         flex-direction: row;
+
+    }
+
+    p{
+      font-size:30px;
+     
+    }
+  .specialText{
+    color:blue;
+  }
+  
+ 
